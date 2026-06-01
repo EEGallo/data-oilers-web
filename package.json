@@ -1,0 +1,29 @@
+{
+  "name": "data-oilers-web",
+  "version": "1.0.0",
+  "description": "Sitio oficial de presentación de Data Oilers.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EEGallo/data-oilers-web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EEGallo/data-oilers-web/issues"
+  },
+  "homepage": "https://github.com/EEGallo/data-oilers-web#readme",
+  "dependencies": {
+    "@vitejs/plugin-react": "^6.0.1",
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5",
+    "vite": "^8.0.10"
+  }
+}
